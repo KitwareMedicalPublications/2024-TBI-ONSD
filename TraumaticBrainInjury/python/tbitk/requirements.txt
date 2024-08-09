@@ -1,0 +1,21 @@
+numpy >= 1.19.3
+ipython >= 7.16.2
+itk >= 5.2.0.post2
+itk-pocus >= 0.2.0
+monai == 0.6.0
+
+matplotlib >= 3.5.1
+tensorboard >= 2.8.0
+
+pandas >= 1.4.1
+pydicom >= 2.2.2
+scipy >= 1.8.0
+scikit-image >= 0.19.2
+segmentation_models_pytorch >= 0.3.0
+torch >= 1.10.2
+pytorch-ignite >= 0.4.8
+scikit-learn >= 1.0.2
+natsort >= 8.1.0
+pyigtl >= 0.1.0
+PySide2 >= 5.15.2.1
+pyqtgraph >= 0.12.4
